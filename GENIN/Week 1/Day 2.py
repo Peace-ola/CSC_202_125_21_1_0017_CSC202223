@@ -3,13 +3,13 @@
 #STRING Printing out individual characters
 print("Hello"[4])
 
-#INTEGERS/WHOLE NUMBERS (does not use "")
-print(123 + 333)
+#INTEGERS
+print(123 + 456)
 
 #FLOAT/DECIMAL NUMBERS
-print(124.44)
+print(3.15469)
 
-#BOOLEAN (TRUE/FALSE)
+#Boolean
 True
 False
 
@@ -25,11 +25,11 @@ two_digit_number = second_digit + first_digit
 print(two_digit_number)
 
 #Mathematical operations NB(Double ** is used to raise a number to that power)
-6 + 3
-6 - 3
-6 * 3
-6 / 3
-6 ** 2
+9 + 3
+9 - 3
+9 * 3
+9 / 3
+9 ** 2
 3 * 2 + 3 / 4 - 2
 
 #calculating BMI
